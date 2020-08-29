@@ -2,7 +2,7 @@
 
  # [Check Demo Here](https://elastic-blackwell-baf3b9.netlify.app)
 
-Cricket App Using HTML, Bootstrap and JavaScript.
+Cricket App Using HTML, Bootstrap and TypeScript.
 
 The Game Contains Two Teams each having 10 players.
 Each player is supposed to hit a button present on the top of respective team layout everytime to score a run for each ball out of 6 balls.
